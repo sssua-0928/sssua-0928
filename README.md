@@ -28,19 +28,28 @@
 2018.03 ~ : Catholic University, Media Technology Content & Computer Information Engineering
 
 ### Projects
+### 2022
+- Server Developer - [Hacker](https://github.com/zaranaramorimori/HACKER-SERVER) : 본격! 커밋권장 경쟁 앱서비스
+- Server Developer - [Fill-in](https://github.com/TeamFILL-IN/Fill-Server) : 필름카메라 현상소, 필름 정보제공 앱서비스
+- 
 ### 2021
-- Server Developer - [Cherish](https://github.com/TeamCherish/CherishServer) : 당신의 소중한 사람을 위한 연락관리 앱서비스
+- Server Developer - [ㄷ-Link](https://github.com/29th-SOPKATHON-DLink) : 공동체 모임을 더 특별하게, 모임을 위한 술자리 기억 공유 플랫폼 앱서비스
 - Server Developer - [Colfume](https://github.com/colfume/back-2the-fumeture) : 색으로 찾는 나만의 향기, 향수추천 웹서비스
+- Server Developer - [Cherish](https://github.com/TeamCherish/CherishServer) : 당신의 소중한 사람을 위한 연락관리 앱서비스
+
 
 ### 2020
-- Web Developer - [Capsule Plants(Hackathon)] : 코로나 블루로 우울한 당신을 위한 반려식물 홍보 및 심리테스트 웹사이트
 - Server Developer - [Cherish(AppJam)](https://github.com/TeamCherish/CherishServer) 
+- Web Developer - [Capsule Plants(Hackathon)] : 코로나 블루로 우울한 당신을 위한 반려식물 홍보 및 심리테스트 웹사이트
+
 
 ### Experience
+### 2022
+- 30th SOPT iOS Developer
+
 ### 2021
 - 5th CJ UNIT
 - 28th SOPT Server Development
-
 
 ### 2020
 - 1st Catholic Univ. Summer Hackathon Web / Design Development
